@@ -10,11 +10,15 @@ Include your abstract here. This should be one paragraph clearly describing your
 
 I began brainstorming for this project just thinking about things that I'm interested in or are inspiring me right now. I went to MeowWolf in LasVegas last year and have been inpired since by the Omega Mart section of the experience. It got me thinking about AI generated text and how if the products in Omega Mart were in fact AI generate it would have fit in so perfectly with the story they were trying to convey as well. I also really like how when I read different AI generated texts it feels like I am reading some weird alien propoganda that's trying to trick us into thinking it was written by a human. I think it would be cool to play with this idea for cosmetic products/slogans or like different foods. I want to make a generative text of either different food or cosmetics names/slogans and then create a poster advertising it.
 
+I am so happy with the results! I'm happy with the data that was generated and final. The goal was to make a surrealist, dystopic beauty ad campaign for a generated product. For the future of this project I think it could be cool to continue making generated products and advertisements for them. 
+
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
 - trained models
 - training data (or link to training data). what is your corpus?
+
+I included the Jupyter Labs from the text generations for the side effects, beauty slogans and product names. 
 
 ## Code
 
@@ -25,6 +29,7 @@ Your code for generating your project:
 ## Results
 
 - Documentation of your generative text in an effective form. A file with your generated text (.pdf, .doc, .txt). 
+- Hello I am a bit confused on how to add files to this repository. I'm sorry. I am going to submit the code, input data, output data and final result on canvas just for tonight and then ask you about it tomorrow!!
 
 ## Technical Notes
 
